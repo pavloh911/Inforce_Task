@@ -7,7 +7,8 @@ docker-compose up -d --build
 docker-compose exec web python manage.py createsuperuser
 
 ```
-### After that, add from admin two user group - user - and - restaurant -
+### After that, add from admin two user groups - "user"  and  "restaurant" 
+
 # Main APIs
 API to register for user. \
 POST - username, password
