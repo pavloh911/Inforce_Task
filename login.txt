@@ -1,0 +1,12 @@
+--admin--
+admin admin
+--user--
+pavlo 2344nice324324
+petro 324234to324234
+ivan 324234meet32434
+olia 324343you342434
+--restaurant--
+mcdonalds 324you3425344
+kfc 324343434are3243234
+pyzatachata 2the3423344
+domino 344353best324334
