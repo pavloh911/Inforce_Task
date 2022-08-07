@@ -60,7 +60,7 @@ API to get result of voting, return which restaurant and how many votes. \
 http://127.0.0.1:8000/api/v1/result/
 ```
 
-##PyTest
+## PyTest
 ```bash
 docker-compose exec web pytest
 ```
