@@ -1,13 +1,24 @@
 # INFORCE PYTHON TASK
 
 ## Setup
+Make containers and run
 ```bash
-cd app
 docker-compose up -d --build
-docker-compose exec web python manage.py createsuperuser
-
 ```
-### After that, add from admin two user groups - "user"  and  "restaurant" 
+Run containers
+```bash
+docker-compose up
+```
+Stop containers
+```bash
+docker-compose down
+```
+Scrip to create super user or make migrations or migrate
+```bash
+docker-compose exec web python manage.py createsuperuser
+```
+ 
+### After that, add in Django administration two user groups - "user"  and  "restaurant" 
 
 # Main APIs
 API to register for user. \
